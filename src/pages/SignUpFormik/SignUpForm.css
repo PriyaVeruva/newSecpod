@@ -1,0 +1,52 @@
+.signUpFormContents {
+	padding: 5vh;
+}
+.signUpFormContents .MuiFormControl-root.MuiFormControl-fullWidth {
+	margin-bottom: 22px;
+}
+.signUpFormContents .MuiOutlinedInput-notchedOutline {
+	border-radius: 8px !important;
+	border: solid 1px var(--darkPara);
+}
+.signUpFormContents .MuiInputBase-input.MuiOutlinedInput-input {
+	padding: 25px 431px 23px 24px;
+}
+div.MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+	border: solid 1px var(--primaryColor);
+}
+legend span {
+	font-size: 17px;
+}
+.e div.MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+	border: solid 1px var(--red);
+
+}
+.termsConditions {
+	display: flex;
+	gap: 20px;
+	align-items: center;
+	font-size: 18px;
+	font-family: "Futura-Medium";
+	color: var(--darkPara);
+	margin-bottom: 38px;
+}
+
+.signUpFormContents .MuiButtonBase-root.MuiButton-root,
+.signUpFormContents .MuiButtonBase-root.MuiButton-root:hover {
+	background-color: var(--secondaryColor);
+	font-size: 24px;
+	font-family: "Futura-Medium";
+	color: var(--white);
+	text-transform: uppercase;
+	white-space: nowrap;
+}
+.error {
+	color: red;
+	/* margin-bottom: 22px; */
+}
+@media screen and (max-width:744px)
+{
+	.signUpFormContents .MuiInputBase-input.MuiOutlinedInput-input {
+		padding:16.5px 14px;
+	}
+}

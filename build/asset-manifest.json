@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5cf2bd4b.css",
+    "main.js": "/static/js/main.d8dff5cf.js",
+    "static/js/787.7602e39e.chunk.js": "/static/js/787.7602e39e.chunk.js",
+    "static/media/carouselbg.png": "/static/media/carouselbg.5ef14ad799e33aa96875.png",
+    "static/media/carouselImage2.png": "/static/media/carouselImage2.fbc87f2bdbc19c6e236b.png",
+    "static/media/Barlow-ExtraBold.ttf": "/static/media/Barlow-ExtraBold.777e300ed64d3d47cc85.ttf",
+    "static/media/Barlow-SemiBold.ttf": "/static/media/Barlow-SemiBold.8247eaeb0799c0acafc6.ttf",
+    "static/media/Barlow-Bold.ttf": "/static/media/Barlow-Bold.0cb1ab864072bf9e0991.ttf",
+    "static/media/backgroundImage.png": "/static/media/backgroundImage.b8973dcceb89ec095cd0.png",
+    "static/media/image1.png": "/static/media/image1.fdafd6f845122712fddf.png",
+    "static/media/signupformbg.png": "/static/media/signupformbg.77e6fe2cf6ac0ffd4cec.png",
+    "static/media/Futura Bold.ttf": "/static/media/Futura Bold.bb156132a191d4d55aa3.ttf",
+    "static/media/avatar.png": "/static/media/avatar.6e6757ab11396f9ec849.png",
+    "static/media/image15.png": "/static/media/image15.618ffcd3b10bd4e5cde9.png",
+    "static/media/image16.png": "/static/media/image16.3e885aa0565cfb7a6f68.png",
+    "static/media/image2.png": "/static/media/image2.147026407e704849bf69.png",
+    "static/media/image21.png": "/static/media/image21.ade68b82d2bc4d07e006.png",
+    "index.html": "/index.html",
+    "main.5cf2bd4b.css.map": "/static/css/main.5cf2bd4b.css.map",
+    "main.d8dff5cf.js.map": "/static/js/main.d8dff5cf.js.map",
+    "787.7602e39e.chunk.js.map": "/static/js/787.7602e39e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cf2bd4b.css",
+    "static/js/main.d8dff5cf.js"
+  ]
+}

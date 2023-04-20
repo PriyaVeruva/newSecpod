@@ -1,0 +1,48 @@
+:root {
+	--red: #870016;
+	--fieldLabelColor: #8e9295;
+	--bgColor: #f2f2f2;
+	--fontColor: #1c1b1b;
+	--fontColor1: #595856;
+	--fontColor2: #3a1413;
+	--fontColor3: #43403f;
+	--fontColor4: #191919;
+	--fontColor5: #161616;
+	--linkColor: #2680eb;
+	--bgColor2: #e64c66;
+	--bgColor3: #419b56;
+	--fieldBorder: #d0d0d0;
+	--circleColor: #f4b348;
+	--formLabelColorPrimary: #595654;
+	--radioBtnBorder: #6a6a6a;
+	--boxShadowColor: #00000029;
+	--shadowColor: #00000029;
+	--switchEnablebg: #bfbfbf;
+	/* secpod  */
+	--primaryColor: #012f51;
+	--secondaryColor: #23bb2d;
+	--buttonTextColor: #ebf6ff;
+	--darkPara: #8f8f8f;
+	--white: #ffffff;
+	--lightPara: #dedede;
+	--black: #000;
+	--textColor: #012f52;
+	--footerlink: #d6d6d6;
+	--error:#db7f72;
+}
+
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+@keyframes App-logo-spin {
+	from {
+		transform: rotate(0deg);
+	}
+	to {
+		transform: rotate(360deg);
+	}
+}
